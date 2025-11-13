@@ -137,11 +137,11 @@ internship_tracker/
 ---
 
 ## 👩‍💻 Author
-**Pravalika Vemula**  
+**Navya Neerudi**  
 🎓 B.Tech (3nd Year) | Web Development & Cloud Enthusiast  
 💼 Skills: Django, HTML, Bootstrap, MySQL, AWS, Data Analysis  
-📧 Email: pravalikavemula25@gmail.com  
-🌐 GitHub: [https://github.com/Pravalikavemula](https://github.com/Pravalikavemula)
+📧 Email: navyaneerudi5@gmail.com  
+🌐 GitHub: (https://github.com/navyaneerudi)
 
 ````
 
